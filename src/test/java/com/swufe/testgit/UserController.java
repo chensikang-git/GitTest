@@ -5,5 +5,8 @@ public class UserController {
         return "csk";
     }
 
+    private String getEmail(){
+        return "csk@gmail.com";
+    }
 
 }

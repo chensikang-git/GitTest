@@ -8,4 +8,8 @@ public class UserController {
         return "20";
    }
 
+    private String getGrade(){
+        return "3Grade";
+    }
+
 }

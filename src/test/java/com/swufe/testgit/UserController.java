@@ -9,4 +9,8 @@ public class UserController {
         return "csk@gmail.com";
     }
 
+    private String getPassword(){
+        return "csk123";
+    }
+
 }

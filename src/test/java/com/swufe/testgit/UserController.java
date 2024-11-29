@@ -5,7 +5,6 @@ public class UserController {
         return "csk";
     }
 
-
     private String getGender(){
         return "male";
     }

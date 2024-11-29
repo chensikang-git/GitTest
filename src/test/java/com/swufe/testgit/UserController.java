@@ -9,6 +9,9 @@ public class UserController {
         return "male";
     }
 
+   private String getGrade(){
+        return "3Grade";
+   }
     private String getEmail(){
         return "csk@gmail.com";
     }

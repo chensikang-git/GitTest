@@ -4,6 +4,8 @@ public class UserController {
     private String getName(){
         return "csk";
     }
-
+   private String getAge(){
+        return "20";
+   }
 
 }
